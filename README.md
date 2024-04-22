@@ -1,4 +1,4 @@
 # apnacollege
-Author-Anshuman Pandey
+Author-Anshuman (Pandey)
 <br>
 This is i'm learning from apna college
